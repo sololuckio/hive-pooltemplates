@@ -18,13 +18,6 @@
                 ]
             },
             {
-                "geo": "Phoenix",
-                "urls": [
-                    "us.stratum.sololuck.io:3333",
-                    "us.stratum.sololuck.io:4334"
-                ]
-            },
-            {
                 "geo": "Singapore",
                 "urls": [
                     "sg.stratum.sololuck.io:3333",
